@@ -40,6 +40,8 @@
 
 </div>
 
+<hr>
+
 ### Contact:
 <div align="center">
   https://www.linkedin.com/in/damiencrhodes/
