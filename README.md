@@ -13,6 +13,8 @@
 ### About Me:
 <div align="center">
   I'm a software engineer from Richmond, Virginia.
+  
+  www.damienrhodes.com
 </div>
 
 <hr>
@@ -46,6 +48,5 @@
 <div align="center">
   damiencrhodes@gmail.com
   
-  https://www.linkedin.com/in/damiencrhodes/
-  https://www.damienrhodes.com/
+  www.linkedin.com/in/damiencrhodes
 </div>
