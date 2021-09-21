@@ -44,5 +44,8 @@
 
 ### Contact:
 <div align="center">
+  damiencrhodes@gmail.com
+  
   https://www.linkedin.com/in/damiencrhodes/
+  https://www.damienrhodes.com/
 </div>
